@@ -30,3 +30,16 @@ A stylish glassmorphism login page with a soft blurred background and interactiv
 
 ## 🧑‍💻 Author
 Designed and developed by **[Your Name]**.
+
+
+link in box of icons:
+    <link href='https://cdn.boxicons.com/3.0.3/fonts/basic/boxicons.min.css' rel='stylesheet'>
+link the style file;
+css link in the html file ;
+    <link rel="stylesheet" href="style.css">
+
+output:
+<img width="1910" height="922" alt="image" src="https://github.com/user-attachments/assets/e156c0fb-057f-42b1-8631-be5b16f1afe3" />
+
+
+
